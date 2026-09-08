@@ -1045,3 +1045,11 @@ title: 주제 기준으로 분류하지 않은 것
 [서윤과 승타로](https://share.gemini.google/rFFbePNpmWH3)
 
 (짧)[유튜브 썸네일에 쓸 이미지 PNG 써야할 이유 있나? JPG로 충분?](https://share.gemini.google/QqRGKWYexR8N)
+
+04
+
+[ガオン堂 이거 무슨 말인 거 같니](https://share.gemini.google/s11L3haeTw3x)
+
+05
+
+[피시방에 PC는 퍼블릭 컴퓨터임?](https://share.gemini.google/1Yrl7TEQhjCQ)

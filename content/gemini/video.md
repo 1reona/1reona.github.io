@@ -151,3 +151,17 @@ title: 동영상 관련
 
 (짧)[OBS에서 NVIDIA 소음 억제 필터 억제 강도 어느 정도로 해야할지](https://share.gemini.google/SwbO9TlRjhp5)
 
+9월
+
+03
+
+(짧)[내가 말이다요, OBS 내 목소리 녹음할 때, NVIDIA 소음 제거를 쓰고 있는데. 음성 최적화 체크하고, 억제 강도 30 준 거랑 10 준 거랑 비교해서 들어봤거든. 큰 차이 모르겠으면 10하는 게 맞지 않나 생각이 드는데 너의 생각은?](https://share.gemini.google/0y8OGHOvuZXP)
+
+05
+
+[내가 동영상 편집한 거, 컷편집을 제법 많이 한 편 같나](https://share.gemini.google/oEqL7AMTPGYp)
+
+(짧)[비디오 게임에, 효과음과 배경 음악이 있잖아. 보통 둘의 크기 차이 얼마 정도가 적절하다 생각하나](https://share.gemini.google/0CRvSMbmZ3lK)
+
+[유튜브 자동 자막 영상인데. 이거 영상 제목 뭐라고 해야겠나 따이야(이러나 유튜브 영상 '아직도 살아있는 포유나, 1년 만의 녹화' 관련)](https://share.gemini.google/RVEGMPFgFylc)
+

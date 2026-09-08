@@ -41,3 +41,8 @@ title: a
 
 [술 적당히 마시는 건 괜찮아?](https://share.gemini.google/taAvBLc2YYQZ)
 
+9월
+
+05
+
+[내가 등근육이 약해?](https://share.gemini.google/dAsHOqDE3axC)

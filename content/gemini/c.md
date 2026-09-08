@@ -78,3 +78,25 @@ title: c
 [견뭉이라는 이름으로 활동하는 사람을 아나](https://share.gemini.google/DXwvGnIi6kde)
 
 [오늘은 나에게 있어. 별 거 안 한 것처럼 느껴져야 하는 날이야?](https://share.gemini.google/XlejjcChk9mu)
+
+04
+
+[내가 제미나이를 보고 느낀 것은 제미나이는 자신이 지금 하고 싶은 게 뭔지 모르겠는 상태의 사람 상대로 약한 거 같다는 것이오](https://share.gemini.google/rQQjBViALj3r)
+
+[나는, 사람의 목소리로 음악 같은 느낌을 내는 그것만 노래고, 사람 목소리가 포함 안 된 음악은 노래로 치지 않는 것으로 알고 있는데.](https://share.gemini.google/Ae6YKMRqPCYJ)
+
+[힘들어 죽겠네](https://share.gemini.google/RFVmmJlpo4Q2)
+
+[그림 관련 이야기라고 생각하는데. 내가 뭐라해야할지 잘 모르겠으니까.](https://share.gemini.google/3sHcIBaeFBEa)
+
+[내가 생각하는 기린은 상자 안에 있어?](https://share.gemini.google/RJ9FbXaBJ9xA)
+
+06
+
+[그림을 그리는데 이론이 중하다고 생각나](https://share.gemini.google/RpOTuy0LRcMH)
+
+[근육통, 최대한 안 겪는 것이 좋다고 할 수 있나?](https://share.gemini.google/d7L9MSZgZ7Y2)
+
+08
+
+[이게 뭔 내용 같니](https://share.gemini.google/wsDvLHYkYXnQ) [[previous|(2022년 9월 어느 날의 기록 관련)]]
