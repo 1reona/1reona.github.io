@@ -444,3 +444,15 @@ title: 돈에 대한 나의 생각 관련
 07
 
 [지역사랑상품권](https://share.gemini.google/iIXBKI8lThde)
+
+11
+
+[지금 살아있는 내가 이때까지 봐온 다른 사람들, 하나같이 이름이 비어있는 거 같다.](https://share.gemini.google/pO3aNCqTC3ke)
+
+14
+
+[AI가 컴퓨터시장을 박살냈다고 한 것에 대한 나의 반응](https://share.gemini.google/Ik1JysOdmcjU)
+
+15
+
+[누군가가 '남에게 피해 안주는 선택은 존중하는게 상식임'이라고 말하는 것을 보았다](https://share.gemini.google/KT5mQJipm57w)

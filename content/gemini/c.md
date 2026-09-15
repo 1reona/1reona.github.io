@@ -100,3 +100,27 @@ title: c
 08
 
 [이게 뭔 내용 같니](https://share.gemini.google/wsDvLHYkYXnQ) [[previous|(2022년 9월 어느 날의 기록 관련)]]
+
+10
+
+[잘 만들었다는 말을 경계하는 것에서 시작해서 게임이란 말을 경계하기까지](https://share.gemini.google/YFvSErCu3rxt)
+
+11
+
+[지금 살아있는 내가 이때까지 봐온 다른 사람들, 하나같이 이름이 비어있는 거 같다.](https://share.gemini.google/pO3aNCqTC3ke)
+
+14
+
+[이상하다와 정상이 아니다 라는 말은 비슷한 말 같나?](https://share.gemini.google/i9jLobsedGM8)
+
+[어떤 사람이 AI 때문에 직업이 사라진다라고 말한 것에 대한 나의 반응](https://share.gemini.google/kcwJkWnEbBtf)
+
+[자신 그림 AI 학습 금지라는 말을 한 것에 대한 나의 반응](https://share.gemini.google/TmcChBVhOTLO)
+
+[AI가 컴퓨터시장을 박살냈다고 한 것에 대한 나의 반응](https://share.gemini.google/Ik1JysOdmcjU)
+
+15
+
+[누군가가 '남에게 피해 안주는 선택은 존중하는게 상식임'이라고 말하는 것을 보았다](https://share.gemini.google/KT5mQJipm57w)
+
+[잘 한다 같은 말이 경계스럽다. 대체할 말을 찾고 있다](https://share.gemini.google/a6hGEQv0kAm1)

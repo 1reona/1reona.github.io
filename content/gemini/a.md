@@ -46,3 +46,7 @@ title: a
 05
 
 [내가 등근육이 약해?](https://share.gemini.google/dAsHOqDE3axC)
+
+12
+
+[지금 기온이 크게 변하는 시기가](https://share.gemini.google/ly0Gu49sQ6IO)

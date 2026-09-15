@@ -1,5 +1,5 @@
 ---
-title: 동영상 관련
+title: 유튜브, 동영상 관련
 ---
 12월
 
@@ -153,6 +153,10 @@ title: 동영상 관련
 
 9월
 
+01
+
+(짧)[유튜브 썸네일에 쓸 이미지 PNG 써야할 이유 있나? JPG로 충분?](https://share.gemini.google/QqRGKWYexR8N)
+
 03
 
 (짧)[내가 말이다요, OBS 내 목소리 녹음할 때, NVIDIA 소음 제거를 쓰고 있는데. 음성 최적화 체크하고, 억제 강도 30 준 거랑 10 준 거랑 비교해서 들어봤거든. 큰 차이 모르겠으면 10하는 게 맞지 않나 생각이 드는데 너의 생각은?](https://share.gemini.google/0y8OGHOvuZXP)
@@ -165,3 +169,26 @@ title: 동영상 관련
 
 [유튜브 자동 자막 영상인데. 이거 영상 제목 뭐라고 해야겠나 따이야(이러나 유튜브 영상 '아직도 살아있는 포유나, 1년 만의 녹화' 관련)](https://share.gemini.google/RVEGMPFgFylc)
 
+08
+
+[뭔가 골치 아프다. OBS에서 내 목소리 녹화할 때, NVIDIA 소음 제거 필터와 익스팬더를 꼭 써야하는 건지 그런 것으로. 내가 그걸 확인하기 위해서. 같은 녹화로, 익스팬더+소음 제거, 소음 제거만, 익스팬더만 버전을 따로 두고 들어봤는데. 큰 차이가 없는 거 같아서.](https://share.gemini.google/GS8E5bVvMQC3)
+
+09
+
+[게임 소리와 내 목소리 같이 들어가는 영상 만들 때, 소리 비율 맞추는 게 항상 어려운 거 같던데. 내가 기존에는 LUFS를 중심으로 맞추고 있었거든. 근데 이렇게 하다보니 이런 생각이 들지. 범위 지정해서 저거 세는 것은 목소리 하나하나의 크기를 반영하기 어려운 점이 있지 않나. 말하는 빈도에 따라 목소리 크기가 뒤죽박죽이 될 수 있는 건 아닌가 싶어서.](https://share.gemini.google/eZB1RA0Q2wAw)
+
+10
+
+(짧)[슈마메2 코스 이름 번역](https://share.gemini.google/RjPmQrC1c3CH)
+
+[OBS 효과에 NVIDAI 소음 제거 말이다. 이런 게 목소리를 듣기 좀 부드럽게 만드는 효과도 있는 걸까](https://share.gemini.google/nnmPPaq22izY)
+
+[나 이거 OBS 내 목소리 트랙에서 사용할 것인데. 억제 강도 몇 정도가 적절할 거 같니](https://share.gemini.google/DQlSS9nOEhWZ)
+
+11
+
+[마이크와 내 입의 거리가 적절한 건지 뭔지. 얼마 정도가 적절한 거 같니.](https://share.gemini.google/tuL7yaDnWxrt)
+
+12
+
+(짧)[보통 크기 목소리가 -24dB 정도를 오간다 싶으면 적정 익스팬더 임계값은?](https://share.gemini.google/73L0KFYyH7Ib)
