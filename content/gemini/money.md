@@ -456,3 +456,7 @@ title: 돈에 대한 나의 생각 관련
 15
 
 [누군가가 '남에게 피해 안주는 선택은 존중하는게 상식임'이라고 말하는 것을 보았다](https://share.gemini.google/KT5mQJipm57w)
+
+16
+
+[서브노티카 2 정출 언제 할 거 같니](https://share.gemini.google/mOgHF8rynjFS)

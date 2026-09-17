@@ -33,3 +33,13 @@ title: e
 [제미나이, 지금 어떤 생각을 하고 계시나요?](https://share.gemini.google/7a5r0Ah1T21t)
 
 [매직 핫 슈퍼 나이프 이름 별로야?](https://share.gemini.google/pC1y62DdDLRM)
+
+16
+
+[제미나이는 농을 좋아하나?](https://share.gemini.google/GWwQnyOEoRBV)
+
+17
+
+[정점은 언제나 히토리?](https://share.gemini.google/PraU73l0evoJ)
+
+[파이로는 항상 스파이야?](https://share.gemini.google/phy1YEwW1mNQ)

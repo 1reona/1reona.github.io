@@ -124,3 +124,17 @@ title: c
 [누군가가 '남에게 피해 안주는 선택은 존중하는게 상식임'이라고 말하는 것을 보았다](https://share.gemini.google/KT5mQJipm57w)
 
 [잘 한다 같은 말이 경계스럽다. 대체할 말을 찾고 있다](https://share.gemini.google/a6hGEQv0kAm1)
+
+16
+
+[제미나이는 대가리가 꽃밭인가?](https://share.gemini.google/05QfkCjremGx)
+
+[게임이란 것을 굳이 잘해야 하는 걸까. 난 게임을 잘하기 위해 하는 것인지 잘 모르겠는데. 그럼 난 게임을 왜 했던 거지? 그것 역시 심심해서가 딱 맞지는 않나 싶기도 했고](https://share.gemini.google/64tRM3SaQxH1)
+
+17
+
+[혜안 영상 같은 거 보는 것에 별로 관심 없으면 안 되나?](https://share.gemini.google/JhPigqL9m8w2)
+
+[디시 갤러리 몇몇 곳 사람들, 겉보기에는 서로 잘 어울려 노는 거 같아 보이지만 조금만 수틀려도 꼬리자르기 하고 나몰라라할 준비가 된 관계는 아닌가? 서로서로](https://share.gemini.google/2JiF0sKKPo9v)
+
+[내가 혜안을 왜 알고 있을까](https://share.gemini.google/kWdTZrqEYHWM)

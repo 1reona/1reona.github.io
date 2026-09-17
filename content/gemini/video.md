@@ -192,3 +192,17 @@ title: 유튜브, 동영상 관련
 12
 
 (짧)[보통 크기 목소리가 -24dB 정도를 오간다 싶으면 적정 익스팬더 임계값은?](https://share.gemini.google/73L0KFYyH7Ib)
+
+16
+
+[게임이란 것을 굳이 잘해야 하는 걸까. 난 게임을 잘하기 위해 하는 것인지 잘 모르겠는데. 그럼 난 게임을 왜 했던 거지? 그것 역시 심심해서가 딱 맞지는 않나 싶기도 했고](https://share.gemini.google/64tRM3SaQxH1)
+
+[서브노티카 2 정출 언제 할 거 같니](https://share.gemini.google/mOgHF8rynjFS)
+
+[내 목소리 기록하는 거 이대로 괜찮은가](https://share.gemini.google/SnJICjFFtxtW)
+
+17
+
+[이퀄라이저 쓸때 470Hz 부분을 깎는 것은 안전한 건가?](https://share.gemini.google/l9wKshysS0eS)
+
+[혜안 영상 같은 거 보는 것에 별로 관심 없으면 안 되나?](https://share.gemini.google/JhPigqL9m8w2)
