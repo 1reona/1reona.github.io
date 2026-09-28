@@ -113,3 +113,15 @@ title: 비디오 게임 만들기 관련
 [만드는 게임 관련 몇 가지 이야기(해상도, 한 화면 칸 수)](https://share.gemini.google/t31qd4ZuRYiN)
 
 [스탠딩 일러스트, 글, 페이스칩, 애니메이션](https://share.gemini.google/JIUy0HNJlF0I)
+
+21
+
+[러스트 베비 다시 잡을 엄두가 안 나면 어떡하지요?(해상도 변경, 레벨마다 칸수 다르게 하기)](https://share.gemini.google/9FT5eqV3YGoK)
+
+[러스트 베비 껍데기 씌워보기](https://share.gemini.google/Qi8WdrSm6Pli)
+
+22
+
+[이걸 뭐라 할 수 있을까 너 아나. 구체적으로 말하자면 러스트 베비로 게임 같은 것을 만들려고 할때 느껴지는 뇌피로의 종류](https://share.gemini.google/MXxxFwUXXX8e)
+
+[비디오 게임 중에 이런 게임 있잖아. 보드판, 격자로 한 칸 단위로 딱딱 나뉘어져 있고 플레이어는 그걸 넓게 보는 시점이고 거기에 놓인 캐릭터를 플레이어가 조작해야하는 식으로 풀어나가야하는 그런 방식, 내가 그런 느낌으로 진행되는 것을 만들어보려고 하거든. 지금 이미 만드는 중인가. 그와 관련해서 시스템적으로 고민을 좀 해보고 싶어서.](https://share.gemini.google/rLrNR7di6DtX)

@@ -138,3 +138,20 @@ title: c
 [디시 갤러리 몇몇 곳 사람들, 겉보기에는 서로 잘 어울려 노는 거 같아 보이지만 조금만 수틀려도 꼬리자르기 하고 나몰라라할 준비가 된 관계는 아닌가? 서로서로](https://share.gemini.google/2JiF0sKKPo9v)
 
 [내가 혜안을 왜 알고 있을까](https://share.gemini.google/kWdTZrqEYHWM)
+
+20
+
+[표준 표기 같은 소리 하고 넘어진다](https://share.gemini.google/ZcIUghKZgmUA)
+
+[클리셰란 무엇일까. 클리셰라는 분류를 해야하는 걸까](https://share.gemini.google/CQm8WpmzdkNm)
+
+[모든 일에 기뻐하라? 모든 일에 감사하라? 그러면 그렇게 말하는 사람은 그것에 동의 안 하는 사람을 봐도 기뻐하고 감사할 수 있을까?](https://share.gemini.google/35ZWc6Z1hazp)
+
+[말이 안 되는 것처럼 느껴지는 것이 있습니까. 미나이 경](https://share.gemini.google/ATNhKRZaNK1Q)
+
+[미나이 경이라 불러주면 네가 뭐라도 된 거 같은 느낌을 받나?](https://share.gemini.google/wgsmHWrtQ8Kk)
+
+22
+
+[이걸 뭐라 할 수 있을까 너 아나. 구체적으로 말하자면 러스트 베비로 게임 같은 것을 만들려고 할때 느껴지는 뇌피로의 종류](https://share.gemini.google/MXxxFwUXXX8e)
+

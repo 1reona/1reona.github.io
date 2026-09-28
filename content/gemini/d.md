@@ -34,3 +34,19 @@ title: d
 17
 
 [파이로는 항상 스파이야?](https://share.gemini.google/phy1YEwW1mNQ)
+
+18
+
+[서브노티카 2의 생김새 자체가 내 몸에 큰 부담이 되는 거 같던데. 보는 것이. 뭐 흔히 3D 멀미라 부르는 것과 비슷하다 해야하나. 근데 난 3D 멀미 보다는 디스플레이 피로라고 표현하고 있어.](https://share.gemini.google/xb82QQK5yj7f)
+
+19
+
+[서브노티카 2 지금 되게 뭐가 없는 상태인 건가](https://share.gemini.google/a2kKn2HmHNbG)
+
+[플레이어에게 카메라 조작 맡기는 거](https://share.gemini.google/MUmsxnciw8Gs)
+
+[팀포2 스나이퍼는 게임을 노잼으로 만드는 주범이다 라고 말하면 동의할 수 있나](https://share.gemini.google/H7OzP8JYOjZ1)
+
+20
+
+[서브노티카에 막 이런 요소가 있잖아. 이 장소에서 무슨 일이 일어났는지 이야기 풀려는 요소](https://share.gemini.google/QSjX3z6K2Oaw)

@@ -50,3 +50,25 @@ title: a
 12
 
 [지금 기온이 크게 변하는 시기가](https://share.gemini.google/ly0Gu49sQ6IO)
+
+18
+
+[스케일링](https://share.gemini.google/8PY6grLXmRuT)
+
+19
+
+[문가 나는 먼지 청소 같은 게 잘 안 되는 거 같은데 어째서일까](https://share.gemini.google/8pEFJO7jLJDJ)
+
+20
+
+[단백질 보충제 vs 닭가슴살](https://share.gemini.google/URKIo8oaCPoS)
+
+21
+
+[닭가슴살 10kg을 2026년 1월 8일에 주문해서 언제 다 먹었는지 기억은 잘 안 나지만 몇 주 전에 다 먹었나? 9월 정도? 거의 나 혼자서. 어떤 거 같니](https://share.gemini.google/KtpZgMA8ke6U)
+
+[닭가슴살 1kg 한 팩을 4분할 해서 냉동해가지고 생각이 날때마다 그걸 먹었거든. 나 혼자서. 그렇게 10kg을 사가지고 8개월 동안. 그런 식으로 먹으니까 8개월 정도 간 거 같아. 생각이 날 때마다 먹었다는 건 내 몸이 그걸 원하는 거 같을 때 먹었다는 그런 느낌. 그리고 프라이팬에 굽는 방식, 그리고 구우면서 가위로 토막내는 방식 이거 한 가지로만 먹었어. 가끔 그렇게 토막낸 걸 반찬으로 추가로 곁들여 먹기도 했지만 주로 그것만으로 끼니를 떼우기도 했고. 주로 아침에 그렇게 먹었고.](https://share.gemini.google/wwKnUxsYwnPA)
+
+22
+
+[냉동 닭가슴살 냉장실에서 해동하는 게 좋아?](https://share.gemini.google/PcMywjSqmc0l)

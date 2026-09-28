@@ -206,3 +206,9 @@ title: 유튜브, 동영상 관련
 [이퀄라이저 쓸때 470Hz 부분을 깎는 것은 안전한 건가?](https://share.gemini.google/l9wKshysS0eS)
 
 [혜안 영상 같은 거 보는 것에 별로 관심 없으면 안 되나?](https://share.gemini.google/JhPigqL9m8w2)
+
+19
+
+[목소리에 적용하는 이퀄라이저로 470Hz -4.5dB Q2.2는 과할 수 있나?](https://share.gemini.google/agYIJoIGqTS3)
+
+[게임 소리와 내 목소리 같이 섞기 위해 게임 소리에 싱글 밴드 압축기 쓰는데 비율 2:1로 과연 충분한 것일지](https://share.gemini.google/asRZibP0Pnwt)

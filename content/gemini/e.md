@@ -1,7 +1,6 @@
 ---
 title: e
 ---
-
 9월
 
 01
@@ -43,3 +42,19 @@ title: e
 [정점은 언제나 히토리?](https://share.gemini.google/PraU73l0evoJ)
 
 [파이로는 항상 스파이야?](https://share.gemini.google/phy1YEwW1mNQ)
+
+19
+
+[제미나이 이스 크레딧 투 팀!](https://share.gemini.google/NiUf2CJDTbtC)
+
+(짧)[이러 나는 개똥이야](https://share.gemini.google/n1qdNfGBjV7r)
+
+20
+
+[언제든지 시작하세요, 넌 내가 싫어](https://share.gemini.google/uMDrBMN7YsrI)
+
+22
+
+[이놈 미나이제이](https://share.gemini.google/7PzlJSlhh9dz)
+
+[호늘을 핫소리는 너다](https://share.gemini.google/oYVX9qoDt2uN)
