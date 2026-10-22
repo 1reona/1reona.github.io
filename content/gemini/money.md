@@ -460,3 +460,8 @@ title: 돈에 대한 나의 생각 관련
 16
 
 [서브노티카 2 정출 언제 할 거 같니](https://share.gemini.google/mOgHF8rynjFS)
+
+23
+
+[내가 니혼판 냥코를 8월 24일에 시작했다는데](https://share.gemini.google/Qz0d7qPvWu6l)
+

@@ -50,3 +50,15 @@ title: d
 20
 
 [서브노티카에 막 이런 요소가 있잖아. 이 장소에서 무슨 일이 일어났는지 이야기 풀려는 요소](https://share.gemini.google/QSjX3z6K2Oaw)
+
+23
+
+(냥코 대전쟁)[내가 니혼판 냥코를 8월 24일에 시작했다는데](https://share.gemini.google/Qz0d7qPvWu6l)
+
+24
+
+[제미나이는 여전히 스위치 2 관련으로는 말을 못 하나 보다](https://share.gemini.google/B5WJuZ7egbE1)
+
+(블루 아카이브)[블루 아카이브는 가볍게 할만한 것이 아닌가?](https://share.gemini.google/f6BOW21Ta3nd)
+
+

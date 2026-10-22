@@ -1043,3 +1043,213 @@ title: 주제 기준으로 분류하지 않은 것
 04
 
 [ガオン堂 이거 무슨 말인 거 같니](https://share.gemini.google/s11L3haeTw3x)
+
+
+
+
+
+
+24
+
+[얘가 징베냐](https://share.gemini.google/ByLV27btTGge)
+
+[너 이 문장이 뭔 문장인지 알겠나(이러나 제미나이 사용내역 '얘가 징베냐'에서 나온 문장)](https://share.gemini.google/DoaEXAKup2P7)
+
+[주연 3~7명](https://share.gemini.google/fzNoRAMf7zZt)
+
+(짧, 냥코 대전쟁)[냥코 이벤트 번역](https://share.gemini.google/HvawvKXJY2Yg)
+
+[너은 브루 아카이브가 분위기로 시스템의 빈약함을 가리는 그런 뭐시기라고 생각하나?](https://share.gemini.google/vGhWIoOS0Cyx)
+
+25
+
+[이놈의 명절 같은 거. 좀 없어졌으면 좋겠구만](https://share.gemini.google/7Q9XR39psQLv)
+
+(짧, 슈퍼 마리오 메이커 2)[슈마메2 코스 이름 번역 프리즈](https://share.gemini.google/mA5BO6MLTl2q)
+
+[안녕 가벼운](https://share.gemini.google/HPvHe1LuGAvH)
+
+26
+
+(블루 아카이브)[블루 아카이브는 분위기로 시스템의 빈약함을 가리는 그런 게 있다? 일단 분위기를 잡는 그게 있어야 시스템에 대한 아이디어도 떠오를 수 있는 건 아닐까](https://share.gemini.google/aKorJOQ4YYHZ)
+
+(블루 아카이브)[지금 블루 아카이브 입문하면 조지나?](https://share.gemini.google/7K3PcugOT5As)
+
+(블루 아카이브)[블루 아카이브 할까 말까 하다가 결국 해봤다](https://share.gemini.google/UAYO73aikqjK)
+
+27
+
+[너는 돈이라는 말을 보면 그에 대한 수식어로 직관적, 현실적 이런 것이 떠오르나?](https://share.gemini.google/q7Z00GoR46YA)
+
+(팀 포트리스 2)[왜 24명이 모이면 보이스챗 하는 사람 한 명은 꼭 있는 걸까?](https://share.gemini.google/v8PkX5wJCXU6)
+
+28
+
+(블루 아카이브)[블루 아카이브 초반에 모집은 비추인가?](https://share.gemini.google/jvniejjQaCib)
+
+(블루 아카이브)[블루 아카이브 스노우볼에 대한 이야기 아나. 뭐 어디까지 밀면 좀 천천히 해도 된다 그런 거](https://share.gemini.google/bR6CuJWor2g3)
+
+29
+
+(블루 아카이브)[블아 관련 질문이다, 장비 업글이 제법 힘든 거 같더군. 근데 장비 업글 스트라이커 쪽이 우선순위로 여겨지나?](https://share.gemini.google/nGMohIR8tNEl)
+
+10월
+
+01
+
+[오랜만이네 제미나이, 너무 오랜만이라서 제미나이 쓰는 법 댜 까먹었으면 어떡하겠나](https://share.gemini.google/1xE3LMNnEghQ)
+
+[은행 터는 법](https://share.gemini.google/S9IM45YxjcKE)
+
+(짧)[윈도우 11, 버전 26H2에 대해 알고 있니](https://share.gemini.google/GdT9gQTzz3g9)
+
+[팀포2에서 가튼 팀이 안 하는 클래스를 주로 하게 되면 무엇을 주로 하게 될 거 같나](https://share.gemini.google/S5rgW3LojpOf)
+
+02
+
+[이러나 유튜브 영상, '명절 삭제 좀' 관련 이야기](https://share.gemini.google/W0O0ARqMEmgv)
+
+[젬이나이는 문디 자식인가?](https://share.gemini.google/5ToOINIkgUye)
+
+[자기참조가 뭐라고 생강해](https://share.gemini.google/TpEZcOPwQwmt)
+
+[나를 멈춰라 제나미이](https://share.gemini.google/dlf7nHK66f6p)
+
+[슈마메2 트롤 관련](https://share.gemini.google/JQ2c56qSAwxM)
+
+04
+
+[이러나는 조용히 살고 싶다](https://share.gemini.google/k5FrHmacFPEK)
+
+[나는 소란스럽거나 시끄러운 것을 싫어하나?](https://share.gemini.google/MLorms77R0Pw)
+
+05
+
+[나는 찾는다 추울 때 입을 옷](https://share.gemini.google/oz2i5qAlPtdP)
+
+06
+
+(짧)[내가 에버미디어 GC551 캡처보드를 사용해서 OBS로 녹화를 하고 있는데 닌텐도 스위치 화면 녹화하기 위해 쓰고 있어. 근데 60프레임이 부드럽게 안 나오는 거 같아서. 이런 느낌이라 해야하나 59프레임? 60프레임 중에서 2프레임은 같은 화면이 찍히는 그런 느낌](https://share.gemini.google/EXvvrZAYwRIH)
+
+[내가 저번달 26일에 블루 아카이브라는 걸 처음 시작해봤거든.](https://share.gemini.google/PsZXMAcDCsT1)
+
+[블아 스토리, 원피스 스토리와 비슷한가?](https://share.gemini.google/1NGzZHZihepD)
+
+[블아 대결전에 대해 알고 있습니까, 서폿에 대해 알아보기](https://share.gemini.google/AfvIolohFgSx)
+
+[블루 아카이브 스토리 궁금하긴 한데 보기 싫어.](https://share.gemini.google/JbIyjgvXrVnm)
+
+07
+
+[내가 블아를 시작해가지고 임무를 미는데 24지까지 왔단 말이다. 49레벨로 상성 공략을 해서 여까지 옴. 24지에 카페 업글 코어 나오는데 여기서 탄력 장갑 적이 처음 나와 이걸로 인해 꼬였잖아](https://share.gemini.google/HRezAPy2hBnm)
+
+[저세상개발자라는 유튜브 채널 관련 이야기로 시작](https://share.gemini.google/zmPrxdevYekC)
+
+(짧)[사람에게 있어 밤산행은 자살행위 아니었니](https://share.gemini.google/Sr7XDrxvlaUp)
+
+[이러나 시즌 39번째 포유나 복귀](https://share.gemini.google/XuFSngkEKurB)
+
+[블루 아카이브 말이다. 디시 갤러리가 더 활발하나 아카라이브 채널이 더 활발하나, 블아 스토리 대상 연령대가 어떻게 된다고 생각하고 있나?](https://share.gemini.google/dNDn9pDAs9rM)
+
+[문장을 쓰는 방식만 봐도 연령대가 보일 수 있는 건가. 그게 그렇게 파악하기 쉽나](https://share.gemini.google/t74CTKwL5DJQ)
+
+08
+
+[블루 아카이브 바케카사](https://share.gemini.google/xLxI4xTUhSU6)
+
+(짧)[내가 수면용으로 쓰려고 외피가 보온 패딩이고 내피는 극세사 퍼라고 적혀있는 조끼를 샀어. 이거 빨건데. 손빨래 해도 되나](https://share.gemini.google/MtPL20C01kwF)
+
+[내가 요즘은 블루 아카이브에 관심이 많으신가봐, 블아 관련해서 되게 많은 말이 떠오르지만 이번에는 이쪽을 표현해볼까 한다. 블아는 기본적으로 어떤 사람이 다른 사람의 돈을 자신에게 이동시키기 위한 수단에 해당하지 않나](https://share.gemini.google/PG82LJ4g46Qr)
+
+[블루 아카이브 카페 10랭크 단 얘기로 시작해서 내가 했었던 블아와 비슷한 거 같은 다른 장기 서비스류 얘기까지](https://share.gemini.google/a4Y1BzypDwtj)
+
+[포켓몬 유나이트에서 풀집중 하는 이러나는 무적인가?](https://share.gemini.google/F4T5DaZziYCG)
+
+09
+
+[블루 아카이브 말이다. 말줄임표 표기를 저런 식으로 하던데. 이것만 말하면 내가 뭘 말하고자 하는지 알겠나](https://share.gemini.google/2UMhcU6Amd2V)
+
+[유튜브 영상 제목 지어야 하는데 내가 요즘 블아 쪽에 관심이 많이 빠져서 그런지 이쪽으로 돌아오는 게 잘 안 되는 거 같아. 블아 쪽에 관심이 계속 쏠려서 거기에 힘을 되게 많이 썼고. 이제 슬슬 빠질 때 되지 않았나 싶은데](https://share.gemini.google/eV3IuOSDLyqg)
+
+(짧)[Destination: Doom이 뭐요](https://share.gemini.google/yg0st70TCGeo)
+
+[나는 포켓몬 유나이트에서 엑스퍼트 4에서 시작해서 26판만에 마스터에 갔다. 이때의 승률을 구하시오](https://share.gemini.google/757wZvv7HhxP)
+
+[내가 오래 전부터 그림을 그리는 그런 거 를 노리고 있긴 했었는데. 그거 관련해서 아이디어 같은 게 방금 떠올랐다 해야하나. 건수가 하나?](https://share.gemini.google/2ATLEfOT5iUl)
+
+10
+
+(짧)[내가 내 목소리와 슈마메2 소리가 섞여들어가는 영상을 만드는데 말이다. 슈마메2에서 소리가 전체적으로 거슬린다기 보다는 특정 효과음만 거슬리게 들리는 거 같거든. 그 소리만 줄이고 싶은데 이럴 때 파라매트릭 이퀄라이저 쓰는 게 적절할까](https://share.gemini.google/HX21TjXuF2qn)
+
+11
+
+(블루 아카이브)[블아 메인 스토리 1부 1편 3장이 1부 최종편 4장 12화를 봐야 열린다는데 이게 어떻게 되어먹은 순서인가](https://share.gemini.google/TbKMNcnK7GPM)
+
+(블루 아카이브)[블아에 노조미](https://share.gemini.google/vY665dIG9d5X)
+
+(블루 아카이브)[청휘석 열심히 캐고 있어](https://share.gemini.google/0eOOn6gPNp21)
+
+[피곤하구만, 어제 힘을 많이 쓰긴 했지. 어제 힘 크게 쓴 것으로 인한 근육통도 슬슬 오는 거 같고](https://share.gemini.google/KWQ8HFRo4vh6)
+(블루 아카이브)[너 블아 스토리 어디까지 알고 있냐. 내가 블아 스토리 정찰이란 걸 좀 해보려고 하는데. 이렇게 말하면 뭘 말하는 거 같니](https://share.gemini.google/oqYIPcKuLMAP)
+
+12
+
+(블루 아카이브)[이벤트 상점](https://share.gemini.google/q1LSv4l8bf5P)
+
+(포켓몬 유나이트)[이러나 포켓몬 유나이트 무용담](https://share.gemini.google/WDa1T28yObi0)
+
+13
+
+[색약이 뭐임](https://share.gemini.google/MbBjSo7LG1Y4)
+
+14
+
+[손꾸락이 아파서 편집을 못하겠다 이놈아](https://share.gemini.google/3Iij8YvAyLOL)
+
+15
+
+(짧)[프리미어 프로 쓸 때 말이다. 오디오 트랙 양 끝에 크로스페이드 넣는 거. 이거 좀 간편하게 하는 방법 없나. 눌러서 드래그하는 건 손에 부담이 가는 거 같아서](https://share.gemini.google/xwWt7WIAA5VV)
+
+(블루 아카이브)[내가 대략적으로 9월 24일부터 블루 아카이브에 대한 관심이 확 커진 일이 있었고. 26일에 블루 아카이브를 처음 직접 시작했거든. 그리고 지금까지 블루 아카이브에 대해 알아보는데 제법 많은 힘을 써온 거 같다는 생각이 떠올라. 이것 관련 이런저런 이야기. 너는 내 문장을 보고 너에게서 떠오르는 문장을 출력하면 되지 않나 싶다.](https://share.gemini.google/Kmd7l95oQeMl)
+
+18
+
+["가리키는 대상이 명확하지 않습니다?" 네가 나에게 그렇게 말할 처지인가. 네가 그렇게 말하는 거 보면 난 이런 문장이 떠오른다. 네가 쓰는 단어도 하나같이 가르키는 대상이 명확하지 않은 것 투성이 같아](https://share.gemini.google/lrXpbdV3T94R)
+
+[이게 괜찮은 생각인지 잘 모르겠군. 너 다른 건 다 네 원래 하던대로 말하고. 네 출력할 때 끝부분에 "당신의 문장을 보고 나는 이런 문장을 떠올려보았습니다" 이것만 딱 추가해보는 거다.](https://share.gemini.google/M5PUn185P1qT)
+
+[내가 지난번에 스케일링을 하러 치과에 갔었는데 사랑니 뽑으라는 소리를 스케일링 하는 사람이 하더라고](https://share.gemini.google/5f2SEv9sz69j)
+
+(블루 아카이브)[헤일로 알아?](https://share.gemini.google/hSPrCgLhfSZr)
+
+[나는 이런 곳에 대강적으로 이런 말을 쓰는 거 같아서 일단 쓰고 있긴 한데. 이야기라던가 스토리, 서사 같은 말. 너도 그렇지? 근데 이 말들 뭔가 마음에 안 들어. 가르키는 대상을 잘 묘사하고 있는 거 같지가 않아.](https://share.gemini.google/lhwfjqDp149N)
+
+(블루 아카이브)[내가 지금 기억하고 있는 블아캐 이름 최대한 말해보기, 네코호(ねこ号) 만화 관련 이야기](https://share.gemini.google/3DuOtG5CdO9z)
+
+[내 마음에 들었던 만화 전달 방식, 네코호(ねこ号) 만화 관련 이야기](https://share.gemini.google/cdniMLprXjkM)
+
+(블루 아카이브)[네코호(ねこ号) 만화 관련 이야기, 캐릭터 묘사가 원작과 많이 다른가?](https://share.gemini.google/U6aa5dYOSnnP)
+
+19
+
+(블루 아카이브)[나는 지금 전체적으로 피로한 상태, 블아 스토리 전달 방식 관련 이야기](https://share.gemini.google/VolY9Dk3wzqR)
+
+20
+
+[도파민이라는 말은 언제부터 유행이 된 겁니까?](https://share.gemini.google/wcdRm06V5cp1)
+
+(블루 아카이브)[이거 내가 블아 스토리 연표라는 걸 좀 보고 있는데 되게 복잡한 거 같더군, 네코호(ねこ号) 만화 관련 이야기, 캐릭터 묘사가 원작과 비슷한가?](https://share.gemini.google/RMnGG1liG2Kf)
+
+(짧)[자고자 한다면 잘 수 없을 것이고 안 자고자 한다면 자게 될 것이다](https://share.gemini.google/z3wvQMZD6wkk)
+
+21
+
+(블루 아카이브)[제미나이, 그레고리오를 아십니까?](https://share.gemini.google/xoKbbk8X0OSe)
+
+[2026년 9월 24일부터 2026년 10월 21일까지 나에게 무슨 일이 있었는지 쭉 말해보기.](https://share.gemini.google/QMbvsPprKWgR)
+
+[내가 무언가 옷을 손빨래 할것인데. 소재가 85% polyester 15% spandex, exclusive of decoration 이렇게 적혀있어. 'exclusive of decoration' 이거는 무엇을 나타내는 말인가](https://share.gemini.google/mEeisfzmcKwP)
+
+22
+
+[면 멜란지 100% 가로60*세로32*높이10cm 베개 겉커버 손빨래](https://share.gemini.google/wjBZoZlJA99B)
